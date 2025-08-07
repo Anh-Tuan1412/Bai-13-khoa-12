@@ -1,0 +1,10 @@
+h1 {
+    color: black;
+}
+
+h2 {
+    background-color: aliceblue;
+    color: black;
+    padding:40x;
+    border: black solid;
+}
